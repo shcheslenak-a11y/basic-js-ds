@@ -3,6 +3,7 @@ class Node {
     this.data = data;
     this.left = null;
     this.right = null;
+    this.parent= null;
   }
 }
 
